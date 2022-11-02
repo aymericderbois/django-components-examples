@@ -1,0 +1,2 @@
+django
+git+https://github.com/aymericderbois/django-components@feature/inline-template
